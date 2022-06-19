@@ -1,0 +1,28 @@
+{
+  "name": "replay-gain-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "private": false,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/jasmine": "latest",
+    "@types/jasminewd2": "latest",
+    "@types/node": "latest",
+    "codelyzer": "latest",
+    "jasmine-core": "latest",
+    "jasmine-spec-reporter": "latest",
+    "karma": "latest",
+    "karma-chrome-launcher": "latest",
+    "karma-coverage-istanbul-reporter": "latest",
+    "karma-jasmine": "latest",
+    "karma-jasmine-html-reporter": "latest",
+    "protractor": "latest",
+    "ts-node": "latest",
+    "tslint": "latest",
+    "typescript": "latest"
+  }
+}
